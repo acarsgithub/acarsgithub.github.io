@@ -7,7 +7,7 @@ body {
     border-radius: 10em;
     color: white;
     font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif; 
-    margin: 3.5em;
+    margin: 2.5em;
     text-align: center;
 }
 
@@ -34,6 +34,7 @@ section {
 
 .right-half {
     display: flex;
+    filter: drop-shadow(2px 2px 2px rgb(168, 145, 145));  
 }
 
 h2 {
@@ -56,6 +57,8 @@ h2 {
 }
 
 p {
+    font-family: "Lucida Console", Courier, monospace;
     margin: 1.5em;
     padding: 1em;
+    font-size: 15px;
 }
