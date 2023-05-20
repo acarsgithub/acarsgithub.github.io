@@ -27,7 +27,7 @@ twitter_username: acarsprofile
 github_username:  acarsgithub
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
