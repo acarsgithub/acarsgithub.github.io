@@ -21,9 +21,8 @@
 title: acars portfolio
 email: acarary@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://acarsgithub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-domain: acarsgithub.github.io 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: acarsprofile
 github_username:  acarsgithub
 
