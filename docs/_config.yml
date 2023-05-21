@@ -28,6 +28,9 @@ url: "https://acarsgithub.github.io" # the base hostname & protocol for your sit
 twitter_username: acarsprofile
 github_username:  acarsgithub
 
+# site settings
+markdown: kramdown
+
 # Build settings
 theme: minima
 plugins:
